@@ -1,2 +1,1 @@
-# statistics-calculator
-Created a statistics calculator for Bad Website's bootcamp.
+Created a statistics calculator for Bad Website's bootcamp using [freeCodeCamp's Javascript and Data Structures curriculum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-advanced-array-methods-by-building-a-statistics-calculator/step-1).
